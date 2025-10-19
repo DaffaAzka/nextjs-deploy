@@ -17,7 +17,7 @@ export default function Page() {
             <strong className="font-bold">Welcome to Acme.</strong> This is the
             example for the{" "}
             <a href="https://nextjs.org/learn/" className="text-blue-500">
-              Next.js Learn Course
+              Next.js Learn Course for Developers
             </a>
             , brought to you by Vercel.
           </p>
@@ -42,6 +42,8 @@ export default function Page() {
             width={560}
             height={620}
             className="md:hidden block"></Image>
+
+          <Li
         </div>
       </div>
     </main>
